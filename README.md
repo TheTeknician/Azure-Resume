@@ -1,11 +1,9 @@
-```markdown
+
 # Azure-Resume  
 My personal Azure-hosted resume project.  
 
 ## 🚀 **Overview**  
 This project is part of the **Azure Resume Challenge**, where I created and deployed my resume on **Microsoft Azure**. The resume is built using **HTML**, **CSS**, and **JavaScript** and includes a visitor counter that tracks the number of views using an **Azure Function**.  
-
----
 
 ## 📁 **Project Structure**  
 ```bash
