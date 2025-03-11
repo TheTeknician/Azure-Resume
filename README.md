@@ -85,5 +85,5 @@ const getVisitCount = () => {
 ---
 
 ## 🏆 **Acknowledgements**  
-- Inspired by the [Azure Resume Challenge](https://www.azureresume.com).  
+- Inspired by the [Azure Resume Challenge](https://cloudresumechallenge.dev/).  
 ```
